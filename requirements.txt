@@ -2,4 +2,4 @@ flask
 dotenv
 os
 google.generativeai
-random
+gunicorn
